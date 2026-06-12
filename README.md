@@ -15,7 +15,7 @@ I run **[TrueWeb Solutions](https://trueweb.com.ng)** — a Nigerian software st
 Next.js 15 · React + Vite · TypeScript · Tailwind · Node/Express · Drizzle ORM · Neon Postgres · MongoDB · NextAuth v5 · Firebase · Squad (GTCO) · Paystack · Vercel · Render · GitHub Actions
 
 #### 📫 Reach me
-peterjohn2343@gmail.com · [LinkedIn](https://www.linkedin.com/in/bitrus-joe-kyari-gadzama-076093178) · [Portfolio](https://beetrus-portfolio.vercel.app)
+Bitrusgadzama02@gmail.com|admin@trueweb.ng · [LinkedIn](https://www.linkedin.com/in/bitrus-joe-kyari-gadzama-076093178) · [Portfolio](https://beetrus-portfolio.vercel.app)
 
 ---
 
